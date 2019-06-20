@@ -1,0 +1,1 @@
+The aim is to try and build the Google Homepage from scratch using Chrome DevTools.
